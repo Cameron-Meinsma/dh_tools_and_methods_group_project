@@ -1,2 +1,9 @@
-# dh_tools_and_methods_group_project
-Course: Digital Humanities: Tools and Methods | Students: Aisling Faucon-Kamara (S6104657), Tijn Donners (S6437265), &amp; Cameron Meinsma (S6494935)
+# Group Project Title TBD
+<h3>Digital Humanities: Tools and Methods | Group 3</h3>
+
+<strong>Group project members</strong><br />
+Aisling Faucon-Kamara (S6104657)<br />
+Tijn Donners (S6437265)<br />
+Cameron Meinsma (S6494935)
+
+
