@@ -1,0 +1,45 @@
+Id,Label,Classes,Group,Author,Title,genre,standardized genre,publication date,country of citizenship,sex or gender,Downloads,Plain Text UTF-8 Link
+0,Bram Stoker,UKF,1,Bram Stoker,The Lair of the White Worm,"fantasy, horror literature",fantasy,1911,United Kingdom,male,657,https://www.gutenberg.org/cache/epub/1188/pg1188.txt
+1,E. M. Forster,UKF,1,E. M. Forster,The Eternal Moment,fantasy,fantasy,1928,United Kingdom,male,1780,https://www.gutenberg.org/cache/epub/72890/pg72890.txt
+2,Edith Nesbit,UKF,1,Edith Nesbit,Five Children and It,"fantasy, children's fiction",fantasy,1902,United Kingdom,female,2204,https://www.gutenberg.org/cache/epub/17314/pg17314.txt
+3,"Edward Plunkett, 18th Baron of Dunsany",UKF,1,"Edward Plunkett, 18th Baron of Dunsany",The King of Elfland's Daughter,fantasy,fantasy,1924,United Kingdom,male,1214,https://www.gutenberg.org/cache/epub/61077/pg61077.txt
+4,George MacDonald,UKF,1,George MacDonald,Lilith,"vampire fiction, fantasy",fantasy,1895,United Kingdom,male,3946,https://www.gutenberg.org/cache/epub/1640/pg1640.txt
+5,H. Rider Haggard,UKF,1,H. Rider Haggard,She: A History of Adventure,"lost world fiction, adventure fiction, Gothic fiction, fantasy",fantasy,1887,United Kingdom,male,2129,https://www.gutenberg.org/cache/epub/3155/pg3155.txt
+6,J. M. Barrie,UKF,1,J. M. Barrie,Peter Pan in Kensington Gardens,"fairy tale, short novel, fantasy",fantasy,1906,United Kingdom,male,1169,https://www.gutenberg.org/cache/epub/26998/pg26998.txt
+7,Lewis Carroll,UKF,1,Lewis Carroll,Sylvie and Bruno,fantasy,fantasy,1889,United Kingdom,male,1126,https://www.gutenberg.org/cache/epub/620/pg620.txt
+8,Rudyard Kipling,UKF,1,Rudyard Kipling,Puck of Pook's Hill,fantasy,fantasy,1906,United Kingdom,male,925,https://www.gutenberg.org/cache/epub/26027/pg26027.txt
+9,William Hope Hodgson,UKF,1,William Hope Hodgson,The House on the Borderland,"horror literature, fantasy, weird fiction",fantasy,1908,United Kingdom,male,2604,https://www.gutenberg.org/cache/epub/10002/pg10002.txt
+10,William Morris,UKF,1,William Morris,The House of the Wolfings,fantasy,fantasy,1889,United Kingdom,male,5161,https://www.gutenberg.org/cache/epub/2885/pg2885.txt
+11,Arthur Conan Doyle,UKS,2,Arthur Conan Doyle,The Poison Belt,science fiction,science fiction,1913,United Kingdom,male,1040,https://www.gutenberg.org/cache/epub/126/pg126.txt
+12,Edwin Abbott Abbott,UKS,2,Edwin Abbott Abbott,Flatland,"science fiction, mathematical fiction, satirical fiction",science fiction,1884,United Kingdom,male,2577,https://www.gutenberg.org/cache/epub/201/pg201.txt
+13,Elizabeth Burgoyne Corbett,UKS,2,Elizabeth Burgoyne Corbett,New Amazonia,"utopian literature, feminist science fiction, science fiction",science fiction,1889,United Kingdom,female,297,https://www.gutenberg.org/cache/epub/56876/pg56876.txt
+14,H. G. Wells,UKS,2,H. G. Wells,The Time Machine,"time-travel fiction, romantic fiction, dystopian fiction, science fiction, post-apocalyptic fiction",science fiction,1895,United Kingdom,male,10268,https://www.gutenberg.org/cache/epub/35/pg35.txt
+15,John Davys Beresford,UKS,2,John Davys Beresford,The Hampdenshire Wonder,science fiction,science fiction,1911,United Kingdom,male,275,https://www.gutenberg.org/cache/epub/53028/pg53028.txt
+16,M. P. Shiel,UKS,2,M. P. Shiel,The Purple Cloud,"post-apocalyptic fiction, serialized fiction, science fiction",science fiction,1901,United Kingdom,male,742,https://www.gutenberg.org/cache/epub/11229/pg11229.txt
+17,Pauline Ashwell,UKS,2,Pauline Ashwell,The Lost Kafoozalum,science fiction,science fiction,1960,United Kingdom,female,364,https://www.gutenberg.org/cache/epub/30427/pg30427.txt
+18,Percy Greg,UKS,2,Percy Greg,Across the Zodiac,science fiction,science fiction,1880,United Kingdom,male,516,https://www.gutenberg.org/cache/epub/10165/pg10165.txt
+19,Robert Hugh Benson,UKS,2,Robert Hugh Benson,Lord of the World,"dystopian fiction, apocalyptic fiction, science fiction, political fiction",science fiction,1908,United Kingdom,male,786,https://www.gutenberg.org/cache/epub/14021/pg14021.txt
+20,S. Fowler Wright,UKS,2,S. Fowler Wright,The World Below,science fiction,science fiction,1929,United Kingdom,male,528,https://www.gutenberg.org/cache/epub/76352/pg76352.txt
+21,William Tenn,UKS,2,William Tenn,Of All Possible Worlds,science fiction,science fiction,1955,United Kingdom,male,369,https://www.gutenberg.org/cache/epub/50948/pg50948.txt
+22,Charles E. Carryl,USF,3,Charles E. Carryl,Davy and the Goblin,fantasy,fantasy,1885,United States,male,446,https://www.gutenberg.org/cache/epub/25031/pg25031.txt
+23,Edward Ormondroyd,USF,3,Edward Ormondroyd,David and the Phoenix,fantasy,fantasy,1957,United States,male,937,https://www.gutenberg.org/cache/epub/27922/pg27922.txt
+24,Fletcher Pratt,USF,3,Fletcher Pratt,The Blue Star,fantasy,fantasy,1969,United States,male,519,https://www.gutenberg.org/cache/epub/56889/pg56889.txt
+25,Francis Marion Crawford,USF,3,Francis Marion Crawford,Khaled: A Tale of Arabia,fantasy,fantasy,1891,United States,male,331,https://www.gutenberg.org/cache/epub/34959/pg34959.txt
+26,Howard Browne,USF,3,Howard Browne,The Return of Tharn,fantasy,fantasy,1956,United States,male,359,https://www.gutenberg.org/cache/epub/33529/pg33529.txt
+27,Jack Snow,USF,3,Jack Snow,The Magical Mimics in Oz,fantasy,fantasy,1946,United States,male,351,https://www.gutenberg.org/cache/epub/56555/pg56555.txt
+28,James Branch Cabell,USF,3,James Branch Cabell,"Jurgen, A Comedy of Justice",fantasy,fantasy,1919,United States,male,459,https://www.gutenberg.org/cache/epub/8771/pg8771.txt
+29,John Kendrick Bangs,USF,3,John Kendrick Bangs,Mr. Munchausen,fantasy,fantasy,1901,United States,male,411,https://www.gutenberg.org/cache/epub/33432/pg33432.txt
+30,L. Frank Baum,USF,3,L. Frank Baum,The Wonderful Wizard of Oz,"children's story, fantasy",fantasy,1900,United States,male,24328,https://www.gutenberg.org/cache/epub/55/pg55.txt
+31,Robert E. Howard,USF,3,Robert E. Howard,Red Nails,"sword and sorcery, fantasy",fantasy,1936,United States,male,2140,https://www.gutenberg.org/cache/epub/32759/pg32759.txt
+32,Ruth Plumly Thompson,USF,3,Ruth Plumly Thompson,Jack Pumpkinhead of Oz,fantasy,fantasy,1929,United States,female,530,https://www.gutenberg.org/cache/epub/75720/pg75720.txt
+33,Charlotte Perkins Gilman,USS,4,Charlotte Perkins Gilman,Herland,"science fiction, utopian fiction, feminist science fiction, serialized fiction",science fiction,1915,United States,female,3350,https://www.gutenberg.org/cache/epub/32/pg32.txt
+34,Cordwainer Smith,USS,4,Cordwainer Smith,The Game of Rat and Dragon,science fiction,science fiction,1955,United States,male,5985,https://www.gutenberg.org/cache/epub/29614/pg29614.txt
+35,Cyril M. Kornbluth,USS,4,Cyril M. Kornbluth,The Marching Morons,science fiction,science fiction,1951,United States,male,1532,https://www.gutenberg.org/cache/epub/51233/pg51233.txt
+36,Edward Elmer Smith,USS,4,Edward Elmer Smith,Spacehounds of IPC,science fiction,science fiction,1947,United States,male,1051,https://www.gutenberg.org/cache/epub/20857/pg20857.txt
+37,H. P. Lovecraft,USS,4,H. P. Lovecraft,The Call of Cthulhu,"horror literature, science fiction, weird fiction",science fiction,1928,United States,male,5238,https://www.gutenberg.org/cache/epub/68283/pg68283.txt
+38,Jack London,USS,4,Jack London,The Iron Heel,"dystopian fiction, science fiction, political fiction",science fiction,1908,United States,male,1807,https://www.gutenberg.org/cache/epub/1164/pg1164.txt
+39,John Uri Lloyd,USS,4,John Uri Lloyd,Etidorhpa,"science fiction, lost world fiction",science fiction,1895,United States,male,1057,https://www.gutenberg.org/cache/epub/37775/pg37775.txt
+40,Kurt Vonnegut,USS,4,Kurt Vonnegut,2 B R 0 2 B,science fiction,science fiction,1962,United States,male,5145,https://www.gutenberg.org/cache/epub/21279/pg21279.txt
+41,Marion Zimmer Bradley,USS,4,Marion Zimmer Bradley,The Colors of Space,science fiction,science fiction,1963,United States,female,1168,https://www.gutenberg.org/cache/epub/20796/pg20796.txt
+42,Philip K. Dick,USS,4,Philip K. Dick,Second Variety,science fiction,science fiction,1953,United States,male,2155,https://www.gutenberg.org/cache/epub/32032/pg32032.txt
+43,Stanley G. Weinbaum,USS,4,Stanley G. Weinbaum,A Martian Odyssey,science fiction,science fiction,1934,United States,male,1691,https://www.gutenberg.org/cache/epub/23731/pg23731.txt
