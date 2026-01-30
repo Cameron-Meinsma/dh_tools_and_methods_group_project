@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": "Network"
+  },
+  "legend": {
+    "edgeLabel": "The edge thickness/opacity is based on scores of stylistic similarity calculated by Stylo",
+    "colorLabel": "Colour Coding of the Nodes\nLight Blue: Fantasy from the United States\nDark Blue: Science Fiction from the United States\nGreen:from Science Fiction from the United Kingodm\nOrange: Fantasy from the United Kingdom ",
+    "nodeLabel": "Each node represents a novel. The node size is based on the Eigenvector centrality of each node. The colours represent four categories. The location of the nodes in this network are plotted by the Yifan Hu algorithm, which takes into account the undirected weighted edges between the novels."
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "title"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 25,
+      "minEdgeSize": 5,
+      "minNodeSize": 3,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
