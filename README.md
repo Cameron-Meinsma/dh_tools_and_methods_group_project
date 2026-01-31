@@ -1,4 +1,4 @@
-# Group Project Title TBD
+# Data Collection and Analysis
 <h3>Digital Humanities: Tools and Methods | Group 3</h3>
 
 <strong>Group project members</strong><br />
